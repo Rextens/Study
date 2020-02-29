@@ -17,4 +17,7 @@ public class Executioner {
     public boolean hasBeenExecutedWithAToySword = false;
     public boolean hasBeenTickled = false;
     public boolean isFree = true;
+    public void x() {
+        System.out.println("x");
+    }
 }
